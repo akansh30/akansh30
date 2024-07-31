@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Akansha Kumari
 **AI/ML Developer Intern | Passionate about Tech Innovation**
 
-Welcome to my GitHub profile! I'm Akansha, an AI ML Developer Intern working at a startup. I develop and implement AI/ML models, handle data preprocessing, feature engineering, and model evaluation. I also deploy and fine-tune large language models, perform frontend/backend tasks and collaborate with my team to deliver high-quality solutions on time. I also love working on the front-end specializing in React.js, HTML, CSS, Tailwind CSS, and Bootstrap.
-
 ## 🚀 Skills
 
 - **Languages:** C, Python
