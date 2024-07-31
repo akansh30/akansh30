@@ -26,4 +26,4 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving de
 
 - **[LinkedIn](https://www.linkedin.com/in/akanshakumari30/)**  
   
-Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to connect, don't hesitate to reach out! Happy coding! 🚀
+Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to connect, don't hesitate to reach out!
