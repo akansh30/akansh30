@@ -1,5 +1,5 @@
 # Hi there!👋 I am Akansha Kumari
-**AI/ML Developer Intern | Passionate about Tech Innovation**
+**AI/ML Enthusiast | Passionate about Tech Innovation**
 
 ## 🚀 Skills
 
