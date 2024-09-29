@@ -3,8 +3,8 @@
 
 ## 🚀 Skills
 
-- **Languages:** C, Python
-- **Front-end:** React, HTML, CSS
+- **Languages:** C/C++ Python
+- **Front-end:** React.js, Next.js, HTML, CSS
 - **UI Frameworks:** Tailwind CSS, Bootstrap
 - **Design Tool:** Figma
 - **DevOps:** AWS, Azure
